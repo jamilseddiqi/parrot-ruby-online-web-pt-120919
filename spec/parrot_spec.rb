@@ -27,5 +27,5 @@ end
 def parrot
   parrot = "Squawk"
   return parrot
-end 
+end
 parrot
